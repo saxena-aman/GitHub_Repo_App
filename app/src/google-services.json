@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "5977131224",
+    "project_id": "github-repo-app-nextlabs",
+    "storage_bucket": "github-repo-app-nextlabs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5977131224:android:998579a86f1593486e6fad",
+        "android_client_info": {
+          "package_name": "nextGrowthLabs.evaluation.githubrepoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5977131224-s6ofj8iqvl9g0udqutiaifgurt40pael.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nextGrowthLabs.evaluation.githubrepoapp",
+            "certificate_hash": "038c628d1e078f166c4dc2df9e6b38929dc2b31f"
+          }
+        },
+        {
+          "client_id": "5977131224-p5cvrqecoj0pf0nj4eh89p823l180r7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB932M8cCIBsmH5_UcG9ulo24oGMHXekQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5977131224-p5cvrqecoj0pf0nj4eh89p823l180r7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
